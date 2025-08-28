@@ -5,7 +5,7 @@ import SearchBox from "./SearchBox";
 
 export default function WeatherApp(){
    const[weatherInfo, setWeatherInfo]=useState({
-       city: "mumbai",
+       city: "Mumbai ",
        feels_like: 24.5,
        temp:25.02,
        tempMin : 25.2,
